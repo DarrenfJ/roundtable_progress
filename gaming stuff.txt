@@ -1,0 +1,39 @@
+gaming stuff
+
+links
+
+https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP this one
+
+I guess the most inspiring game for me is "Binding of Isaac". I love everything about it. Simple and challenging, insane replayability.
+I think Edmund McMillen games (BoI is one of them) are examples of good game design
+
+Star Ocean: The Second Story and Lunar: Silver Star Story if you're looking for older rpgs. Specifically jrpgs. If you're looking for newer stuff Undertale is great, really creative.
+
+
+
+====
+
+watched the first youtube in the intro to Linear Algebra and it's good to know that I'm still a math geek. Actually got kinda excited to revisit the information
+
+====
+
+Learning
+
+ I do a bunch of stuff that I learned over the years. Glossary of terms and definition. get to know them. make a list and have friends quiz me on them. Try to learn things 'from first principles'. This is literally.. like with math: trying to derive a proof from scratch. Knowing the concepts and how to build on them. With some things like Calculus, where you use the tool or technique for practical purposes, I have to know how to step by step solve the problems. And in that case there's nothing better than practice. Then from learning the Learning How to Learn course stuff. sometimes you have to accept that stuff gets in there incrementally, so sometimes an overview is good, then a deeper dive. And with adult education/training the rule is if you can do something three times competently on your own you are considered 'trained'. So I try to approach things from three different learning styles/techniques/ or teachers/courses.
+
+I think my my 'glossaries and definitions' is similar to your flash cards and my first principles and having people quiz me is similar to your 'A Mind for Numbers' book...
+And I like writing things down. there was some study that suggested people retrain more info when they write notes than when they type.. However I suspect that might change over time...
+
+P1xt [9:48 AM]
+I don't think I've picked up a pencil in a decade and doubt I could find one without rummaging through boxes in the basement for a good 30 minutes.
+
+DarrenfJ [9:48 AM]
+This is an older article about it: https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/
+Scientific American
+A Learning Secret: Don’t Take Notes with a Laptop
+Students who used longhand remembered more and had a deeper understanding of the material
+https://static.scientificamerican.com/sciam/cache/file/1B910817-3855-4ADF-B07303CDDD1263FF_agenda.jpg?w=600&h=335
+summary: you filter information more when writing (slower) than when typing (fast so verbatim, but not as much cognitive activity)
+I would the equivalent for coding is what you've been saying in all your guides P1xt; 'actually type it out, don't just watch the video/read the chapter'
+But I suspect that as whatever we're calling the generation after millenials graduate university that this might shift. I suspect it's just skewed by studies with an older demographic...
+

@@ -1,0 +1,22 @@
+hackerrank challenges
+
+// from: https://www.hackerrank.com/domains/sql/select
+
+https://www.hackerrank.com/challenges/select-all-sql/problem
+https://www.hackerrank.com/challenges/select-by-id/problem
+https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+https://www.hackerrank.com/challenges/japanese-cities-name/problem
+https://www.hackerrank.com/challenges/weather-observation-station-1/problem
+
+
+// from the teir 0
+
+//https://www.hackerrank.com/chingu-challenge-9-javascript-prep
+//https://www.hackerrank.com/contests/chingu-challenge-9-javascript-prep/challenges
+
+https://www.hackerrank.com/contests/chingu-challenge-9-javascript-prep/challenges/arrays-ds
+
+
+
+
+

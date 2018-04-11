@@ -1,0 +1,53 @@
+AI reading as part of the industry readings
+
+April 3rd
+
+https://www.nytimes.com/2018/02/20/technology/artificial-intelligence-risks.html
+
+https://www.nytimes.com/2017/08/13/technology/artificial-intelligence-safety-training.html
+
+April 4th
+
+coding leadership etc
+
+https://hackernoon.com/how-coders-can-improve-envioronment-74e5f88cbc9
+
+https://hackernoon.com/why-your-programmers-just-want-to-code-36da9973388e
+
+April 5th
+
+leadership
+
+https://hackernoon.com/a-wake-up-call-for-tech-managers-d0415775efd0
+
+Learning code (plus links!)
+https://medium.freecodecamp.org/how-to-read-your-way-to-becoming-a-better-developer-b6432fa5bc0c
+
+
+Gaming learning
+
+April 6th
+// from: Essence of linear algebra
+// https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Essence of linear algebra preview
+https://youtu.be/kjBOesZCoqc
+
+April 7th
+// from: Essence of linear algebra
+// https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Vectors, what even are they? | Essence of linear algebra, chapter 1
+https://youtu.be/fNk_zzaMoSs
+
+April 8th
+some teir 0 stuff from the job ready study guides (git etc)
+
+April 9th 
+
+// from: Essence of linear algebra
+// https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+
+Games to review for style etc..
+
+Night in the Woods Review
+https://youtu.be/SJXP99zwQQw
